@@ -1,3 +1,9 @@
+说明：此项目由[KaiserY/rust-book-chinese](https://github.com/KaiserY/rust-book-chinese) fork 而来。非常感谢原作者们的工作。然而我并不是很喜欢原作品的中文表达风格---很多地方有强烈的英式中文的感觉，还有一些地方没有忠于英文原文。为此我fork了原作品，希望可以做些合适的修改。
+
+所做修改可能暂时不会pull回去，因为我不应该也不可能让所有人都同意我个人的关于语言的喜好和习惯。
+
+再次感谢原作者们。
+
 [![相同方式共享 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "相同方式共享 4.0")](http://creativecommons.org/licenses/by-sa/4.0/)
 
 本作品采用 [知识共享署名 - 相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/) 进行许可。
